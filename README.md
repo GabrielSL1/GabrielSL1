@@ -1,6 +1,6 @@
 # Gabriel Da Silva Lima 👨‍💻📘
 **`Desenvolvedor Full Stack  `**
-Me chamo Gabriel, tenho 24 anos e sou natural do Santa Rita Do Sapucai. Concluí o ensino médio em E.Estadual Dr.Delfim morereira, também me formei em tecnico em eletrônica pelo Senai.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICV Sou apaixonada por tecnologia. 
+Me chamo Gabriel, tenho 24 anos e sou natural do Santa Rita Do Sapucai. Concluí o ensino médio em E.Estadual Dr.Delfim morereira, também me formei em tecnico em eletrônica pelo Senai.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICV Sou apaixonado por tecnologia. 
 
 ### 🤖 Linguagens e Tecnologias
 <p>
